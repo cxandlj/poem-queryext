@@ -3,9 +3,11 @@ name = "poem-queryext"
 version = "0.1.0"
 edition = "2021"
 description = "Auto deserialize struct from query string"
-license = "MIT"
-authors = ["cx"]
+license = "MIT OR Apache-2.0"
+authors = ["cx<286977246@qq.com>"]
 keywords = ["poem-query-parse"]
+repository = "https://github.com/cxandlj/poem-queryext.git"
+
 
 [dependencies]
 poem = "3.1.7"
